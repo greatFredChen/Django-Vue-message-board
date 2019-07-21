@@ -1,7 +1,7 @@
 [toc]
 
 # About the repo
- Django + DRF + Vuejs `(vue-cli project)` project.
+ docker + Django + DRF + Vuejs `(vue-cli project)` project.
 
 
 # 使用流程
